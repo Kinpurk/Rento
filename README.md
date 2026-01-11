@@ -1,1 +1,1 @@
-<img width="811" height="633" alt="pycharm64_2026-01-11_13-32-41" src="https://github.com/user-attachments/assets/045d8cfe-2268-403d-b88c-9b9b8b099b64" />
+<img width="796" height="627" alt="image" src="https://github.com/user-attachments/assets/2d948b4c-c1f9-4ad6-a001-b600b4353764" />
